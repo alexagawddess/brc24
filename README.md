@@ -38,6 +38,7 @@ This protocol involves two main steps: creating individual HTML files that each 
 **4. Code Example**
 
 **INDIVIDUAL HTML FILES**
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -64,9 +65,10 @@ This protocol involves two main steps: creating individual HTML files that each 
 <body>
     <img id="dynamicImage" src="" alt="Dynamic Image">
 </body>
-</html>
+</html>```
 
 **MASTER HTML FILE**
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,7 +102,7 @@ This protocol involves two main steps: creating individual HTML files that each 
     </div>
 </body>
 </html>
-
+```
 **5. Customization**
 
 Users of the BRC24D protocol may customize the list of images, the ID of the HTML img element, the interval between image changes, and the positioning and styling of the iframe elements, according to the needs of their specific application.
