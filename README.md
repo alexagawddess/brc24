@@ -123,3 +123,7 @@ The term "inscription ID" refers to a unique identifier associated with a specif
 Each image in your array in the individual HTML files could have an associated inscription ID from the Bitcoin blockchain. This ID could correspond to a transaction on the blockchain where information about the image (like its file path, hash, or even the image data itself) was recorded.
 
 This ID can be used to verify the authenticity and integrity of the images used in the protocol, as the data inscribed onto the blockchain cannot be altered, providing a verifiable history of the images. It guarantees that the image files have not been tampered with since their details were inscribed onto the blockchain.
+
+**8. Acknowledgment**
+
+My gratitude goes out to Hype, whose continual encouragement, valuable insights, and unwavering faith in my abilities were instrumental in the realization of the BRC24-DR protocol. His substantial contribution enriched this work, turning a mere concept into a transformative protocol. As I introduce the BRC24-DR protocol, I sincerely acknowledge and appreciate Hype for their pivotal role in its development.
