@@ -1,4 +1,4 @@
-# BRC24D - Layered Dynamic Random Image Display using HTML files
+# BRC24-DR - Layered Dynamic Random Recursive Image Display using HTML files
 
 Version: 1.0
 
@@ -10,7 +10,7 @@ Status: Final
 
 **1. Overview**
 
-BRC24D describes a method for displaying layers of random images from predefined sets of images inscribed to the Bitcoin Blockchain, where each layer's image is updated dynamically at fixed intervals (for example, every 5 minutes). This protocol extends by adding a layering capability using HTML files and iframes.
+BRC24-DR describes a method for displaying layers of random images from predefined sets of images inscribed to the Bitcoin Blockchain, where each layer's image is updated dynamically at fixed intervals (for example, every 5 minutes). This protocol extends by adding a layering capability using HTML files and iframes.
 
 **2. Requirements**
 
@@ -106,7 +106,7 @@ This protocol involves two main steps: creating individual HTML files that each 
 ```
 **5. Customization**
 
-Users of the BRC24D protocol may customize the list of images, the ID of the HTML img element, the interval between image changes, and the positioning and styling of the iframe elements, according to the needs of their specific application.
+Users of the BRC24-DR protocol may customize the list of images, the ID of the HTML img element, the interval between image changes, and the positioning and styling of the iframe elements, according to the needs of their specific application.
 
 **6. Limitations and Considerations**
 
