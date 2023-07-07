@@ -112,5 +112,14 @@ Users of the BRC24D protocol may customize the list of images, the ID of the HTM
 
 - This protocol relies on JavaScript, which must be enabled in the viewer's web browser. The functionality will not work in browsers with JavaScript disabled.
 - This protocol assumes the images are accessible and loadable by the web browser. Image files that are too large may take a noticeable amount of time to load, or may fail to load entirely, depending on the viewer's internet connection.
-- Cross-origin restrictions may prevent iframes from displaying content from different domains. Ensure that all files are hosted on the same domain or that proper CORS (Cross-Origin Resource Sharing) policies are in place.
 - This protocol provides guidelines for the implementation of a layered, dynamic, random image display using HTML files and iframes. It can be adapted and customized according to the user's needs.
+
+**7. Immutability**
+
+Immutability is a key feature of blockchain technology, including Bitcoin blockchain. When data is added to the blockchain, it can't be changed or removed. This is referred to as immutability.
+
+The term "inscription ID" refers to a unique identifier associated with a specific inscription (or record) on the blockchain. In the context of our discussion, the images referenced in the HTML and JavaScript code could have their associated inscription IDs stored on the Bitcoin blockchain.
+
+Each image in your array in the individual HTML files could have an associated inscription ID from the Bitcoin blockchain. This ID could correspond to a transaction on the blockchain where information about the image (like its file path, hash, or even the image data itself) was recorded.
+
+This ID can be used to verify the authenticity and integrity of the images used in the protocol, as the data inscribed onto the blockchain cannot be altered, providing a verifiable history of the images. It guarantees that the image files have not been tampered with since their details were inscribed onto the blockchain.
