@@ -65,7 +65,8 @@ This protocol involves two main steps: creating individual HTML files that each 
 <body>
     <img id="dynamicImage" src="" alt="Dynamic Image">
 </body>
-</html>```
+</html>
+```
 
 **MASTER HTML FILE**
 ```
