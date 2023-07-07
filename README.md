@@ -126,4 +126,4 @@ This ID can be used to verify the authenticity and integrity of the images used 
 
 **8. Acknowledgment**
 
-My gratitude goes out to Hype, whose continual encouragement, valuable insights, and unwavering faith in my abilities were instrumental in the realization of the BRC24-DR protocol. His substantial contribution enriched this work, turning a mere concept into a transformative protocol. As I introduce the BRC24-DR protocol, I sincerely acknowledge and appreciate Hype for their pivotal role in its development.
+My gratitude goes out to Hype, whose continual encouragement, valuable insights, and unwavering faith in my abilities were instrumental in the realization of the BRC24-DR protocol. His substantial contribution enriched this work, turning a mere concept into a transformative protocol. As I introduce the BRC24-DR protocol, I sincerely acknowledge and appreciate Hype for his pivotal role in its development.
